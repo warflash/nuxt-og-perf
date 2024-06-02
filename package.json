@@ -16,8 +16,6 @@
     "pathe": "^1.1.2",
     "vue": "^3.4.27",
     "vue-i18n": "^9.13.1",
-    "vue-router": "^4.3.2",
-    "nuxt-og-image": "^3.0.0-rc.53",
-    "nuxt-schema-org": "^3.3.6"
+    "vue-router": "^4.3.2"
   }
 }
